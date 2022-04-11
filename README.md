@@ -1,2 +1,2 @@
 # Buy-Bitcoin
-Website Made responsive using Meadia Queries
+Website Made responsive using Media Queries
